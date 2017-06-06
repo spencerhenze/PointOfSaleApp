@@ -1,0 +1,16 @@
+C:\Users\spenc\Dropbox\School\Fall 2016\ITM 320\Group Project\Queen's Code\TeamAwesome.Calculations\TeamAwesome.Calculations\bin\Debug\TeamAwesome.Calculations.dll
+C:\Users\spenc\Dropbox\School\Fall 2016\ITM 320\Group Project\Queen's Code\TeamAwesome.Calculations\TeamAwesome.Calculations\bin\Debug\TeamAwesome.Calculations.pdb
+C:\Users\spenc\Dropbox\School\Fall 2016\ITM 320\Group Project\Queen's Code\TeamAwesome.Calculations\TeamAwesome.Calculations\obj\Debug\TeamAwesome.Calculations.dll
+C:\Users\spenc\Dropbox\School\Fall 2016\ITM 320\Group Project\Queen's Code\TeamAwesome.Calculations\TeamAwesome.Calculations\obj\Debug\TeamAwesome.Calculations.pdb
+C:\Users\Queen\Desktop\Queen's Code\TeamAwesome.Calculations\TeamAwesome.Calculations\bin\Debug\TeamAwesome.Calculations.dll
+C:\Users\Queen\Desktop\Queen's Code\TeamAwesome.Calculations\TeamAwesome.Calculations\bin\Debug\TeamAwesome.Calculations.pdb
+C:\Users\Queen\Desktop\Queen's Code\TeamAwesome.Calculations\TeamAwesome.Calculations\obj\Debug\TeamAwesome.Calculations.dll
+C:\Users\Queen\Desktop\Queen's Code\TeamAwesome.Calculations\TeamAwesome.Calculations\obj\Debug\TeamAwesome.Calculations.pdb
+C:\Users\Queen\Desktop\Queen's Code\TeamAwesome.Calculations\TeamAwesome.Calculations\obj\Debug\TeamAwesome.Calculations.csprojResolveAssemblyReference.cache
+C:\Users\spenc\Dropbox\School\Fall 2016\ITM 320\Group Project\Queen's Code New\Queen's Code\TeamAwesome.Calculations\TeamAwesome.Calculations\bin\Debug\TeamAwesome.Calculations.dll
+C:\Users\spenc\Dropbox\School\Fall 2016\ITM 320\Group Project\Queen's Code New\Queen's Code\TeamAwesome.Calculations\TeamAwesome.Calculations\bin\Debug\TeamAwesome.Calculations.pdb
+C:\Users\spenc\Dropbox\School\Fall 2016\ITM 320\Group Project\Queen's Code New\Queen's Code\TeamAwesome.Calculations\TeamAwesome.Calculations\bin\Debug\TeamAwesome.CalcCoupon.dll
+C:\Users\spenc\Dropbox\School\Fall 2016\ITM 320\Group Project\Queen's Code New\Queen's Code\TeamAwesome.Calculations\TeamAwesome.Calculations\bin\Debug\TeamAwesome.CalcCoupon.pdb
+C:\Users\spenc\Dropbox\School\Fall 2016\ITM 320\Group Project\Queen's Code New\Queen's Code\TeamAwesome.Calculations\TeamAwesome.Calculations\obj\Debug\TeamAwesome.Calculations.csprojResolveAssemblyReference.cache
+C:\Users\spenc\Dropbox\School\Fall 2016\ITM 320\Group Project\Queen's Code New\Queen's Code\TeamAwesome.Calculations\TeamAwesome.Calculations\obj\Debug\TeamAwesome.Calculations.dll
+C:\Users\spenc\Dropbox\School\Fall 2016\ITM 320\Group Project\Queen's Code New\Queen's Code\TeamAwesome.Calculations\TeamAwesome.Calculations\obj\Debug\TeamAwesome.Calculations.pdb
