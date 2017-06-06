@@ -1,0 +1,42 @@
+C:\Users\spenc\Dropbox\School\Fall 2016\ITM 320\Group Project\Queen's Code\TeamAwesome.DebitPayment\TeamAwesome.DebitPayment\bin\Debug\TeamAwesome.DebitPayment.dll
+C:\Users\spenc\Dropbox\School\Fall 2016\ITM 320\Group Project\Queen's Code\TeamAwesome.DebitPayment\TeamAwesome.DebitPayment\bin\Debug\TeamAwesome.DebitPayment.pdb
+C:\Users\spenc\Dropbox\School\Fall 2016\ITM 320\Group Project\Queen's Code\TeamAwesome.DebitPayment\TeamAwesome.DebitPayment\bin\Debug\TeamAwesome.SubMainMenu.dll
+C:\Users\spenc\Dropbox\School\Fall 2016\ITM 320\Group Project\Queen's Code\TeamAwesome.DebitPayment\TeamAwesome.DebitPayment\bin\Debug\TeamAwesome.Calculations.dll
+C:\Users\spenc\Dropbox\School\Fall 2016\ITM 320\Group Project\Queen's Code\TeamAwesome.DebitPayment\TeamAwesome.DebitPayment\bin\Debug\TeamAwesome.Slogan.dll
+C:\Users\spenc\Dropbox\School\Fall 2016\ITM 320\Group Project\Queen's Code\TeamAwesome.DebitPayment\TeamAwesome.DebitPayment\bin\Debug\TeamAwesome.Menus.dll
+C:\Users\spenc\Dropbox\School\Fall 2016\ITM 320\Group Project\Queen's Code\TeamAwesome.DebitPayment\TeamAwesome.DebitPayment\bin\Debug\TeamAwesome.FoodSpecialty.dll
+C:\Users\spenc\Dropbox\School\Fall 2016\ITM 320\Group Project\Queen's Code\TeamAwesome.DebitPayment\TeamAwesome.DebitPayment\bin\Debug\TeamAwesome.CashPayment.dll
+C:\Users\spenc\Dropbox\School\Fall 2016\ITM 320\Group Project\Queen's Code\TeamAwesome.DebitPayment\TeamAwesome.DebitPayment\bin\Debug\TeamAwesome.CreditPayment.dll
+C:\Users\spenc\Dropbox\School\Fall 2016\ITM 320\Group Project\Queen's Code\TeamAwesome.DebitPayment\TeamAwesome.DebitPayment\bin\Debug\TeamAwesome.SubMainMenu.pdb
+C:\Users\spenc\Dropbox\School\Fall 2016\ITM 320\Group Project\Queen's Code\TeamAwesome.DebitPayment\TeamAwesome.DebitPayment\bin\Debug\TeamAwesome.Calculations.pdb
+C:\Users\spenc\Dropbox\School\Fall 2016\ITM 320\Group Project\Queen's Code\TeamAwesome.DebitPayment\TeamAwesome.DebitPayment\bin\Debug\TeamAwesome.Slogan.pdb
+C:\Users\spenc\Dropbox\School\Fall 2016\ITM 320\Group Project\Queen's Code\TeamAwesome.DebitPayment\TeamAwesome.DebitPayment\bin\Debug\TeamAwesome.Menus.pdb
+C:\Users\spenc\Dropbox\School\Fall 2016\ITM 320\Group Project\Queen's Code\TeamAwesome.DebitPayment\TeamAwesome.DebitPayment\bin\Debug\TeamAwesome.FoodSpecialty.pdb
+C:\Users\spenc\Dropbox\School\Fall 2016\ITM 320\Group Project\Queen's Code\TeamAwesome.DebitPayment\TeamAwesome.DebitPayment\bin\Debug\TeamAwesome.CashPayment.pdb
+C:\Users\spenc\Dropbox\School\Fall 2016\ITM 320\Group Project\Queen's Code\TeamAwesome.DebitPayment\TeamAwesome.DebitPayment\bin\Debug\TeamAwesome.CreditPayment.pdb
+C:\Users\spenc\Dropbox\School\Fall 2016\ITM 320\Group Project\Queen's Code\TeamAwesome.DebitPayment\TeamAwesome.DebitPayment\obj\Debug\TeamAwesome.DebitPayment.csprojResolveAssemblyReference.cache
+C:\Users\spenc\Dropbox\School\Fall 2016\ITM 320\Group Project\Queen's Code\TeamAwesome.DebitPayment\TeamAwesome.DebitPayment\obj\Debug\TeamAwesome.DebitPayment.dll
+C:\Users\spenc\Dropbox\School\Fall 2016\ITM 320\Group Project\Queen's Code\TeamAwesome.DebitPayment\TeamAwesome.DebitPayment\obj\Debug\TeamAwesome.DebitPayment.pdb
+C:\Users\spenc\Dropbox\School\Fall 2016\ITM 320\Group Project\Queen's Code\TeamAwesome.DebitPayment\TeamAwesome.DebitPayment\bin\Debug\TeamAwesome.Appetizers.dll
+C:\Users\spenc\Dropbox\School\Fall 2016\ITM 320\Group Project\Queen's Code\TeamAwesome.DebitPayment\TeamAwesome.DebitPayment\bin\Debug\TeamAwesome.Appetizers.pdb
+C:\Users\Queen\Desktop\Queen's Code\TeamAwesome.DebitPayment\TeamAwesome.DebitPayment\bin\Debug\TeamAwesome.DebitPayment.dll
+C:\Users\Queen\Desktop\Queen's Code\TeamAwesome.DebitPayment\TeamAwesome.DebitPayment\bin\Debug\TeamAwesome.DebitPayment.pdb
+C:\Users\Queen\Desktop\Queen's Code\TeamAwesome.DebitPayment\TeamAwesome.DebitPayment\bin\Debug\TeamAwesome.SubMainMenu.dll
+C:\Users\Queen\Desktop\Queen's Code\TeamAwesome.DebitPayment\TeamAwesome.DebitPayment\bin\Debug\TeamAwesome.Calculations.dll
+C:\Users\Queen\Desktop\Queen's Code\TeamAwesome.DebitPayment\TeamAwesome.DebitPayment\bin\Debug\TeamAwesome.Slogan.dll
+C:\Users\Queen\Desktop\Queen's Code\TeamAwesome.DebitPayment\TeamAwesome.DebitPayment\bin\Debug\TeamAwesome.Menus.dll
+C:\Users\Queen\Desktop\Queen's Code\TeamAwesome.DebitPayment\TeamAwesome.DebitPayment\bin\Debug\TeamAwesome.Appetizers.dll
+C:\Users\Queen\Desktop\Queen's Code\TeamAwesome.DebitPayment\TeamAwesome.DebitPayment\bin\Debug\TeamAwesome.FoodSpecialty.dll
+C:\Users\Queen\Desktop\Queen's Code\TeamAwesome.DebitPayment\TeamAwesome.DebitPayment\bin\Debug\TeamAwesome.CashPayment.dll
+C:\Users\Queen\Desktop\Queen's Code\TeamAwesome.DebitPayment\TeamAwesome.DebitPayment\bin\Debug\TeamAwesome.CreditPayment.dll
+C:\Users\Queen\Desktop\Queen's Code\TeamAwesome.DebitPayment\TeamAwesome.DebitPayment\bin\Debug\TeamAwesome.SubMainMenu.pdb
+C:\Users\Queen\Desktop\Queen's Code\TeamAwesome.DebitPayment\TeamAwesome.DebitPayment\bin\Debug\TeamAwesome.Calculations.pdb
+C:\Users\Queen\Desktop\Queen's Code\TeamAwesome.DebitPayment\TeamAwesome.DebitPayment\bin\Debug\TeamAwesome.Slogan.pdb
+C:\Users\Queen\Desktop\Queen's Code\TeamAwesome.DebitPayment\TeamAwesome.DebitPayment\bin\Debug\TeamAwesome.Menus.pdb
+C:\Users\Queen\Desktop\Queen's Code\TeamAwesome.DebitPayment\TeamAwesome.DebitPayment\bin\Debug\TeamAwesome.Appetizers.pdb
+C:\Users\Queen\Desktop\Queen's Code\TeamAwesome.DebitPayment\TeamAwesome.DebitPayment\bin\Debug\TeamAwesome.FoodSpecialty.pdb
+C:\Users\Queen\Desktop\Queen's Code\TeamAwesome.DebitPayment\TeamAwesome.DebitPayment\bin\Debug\TeamAwesome.CashPayment.pdb
+C:\Users\Queen\Desktop\Queen's Code\TeamAwesome.DebitPayment\TeamAwesome.DebitPayment\bin\Debug\TeamAwesome.CreditPayment.pdb
+C:\Users\Queen\Desktop\Queen's Code\TeamAwesome.DebitPayment\TeamAwesome.DebitPayment\obj\Debug\TeamAwesome.DebitPayment.csprojResolveAssemblyReference.cache
+C:\Users\Queen\Desktop\Queen's Code\TeamAwesome.DebitPayment\TeamAwesome.DebitPayment\obj\Debug\TeamAwesome.DebitPayment.dll
+C:\Users\Queen\Desktop\Queen's Code\TeamAwesome.DebitPayment\TeamAwesome.DebitPayment\obj\Debug\TeamAwesome.DebitPayment.pdb
