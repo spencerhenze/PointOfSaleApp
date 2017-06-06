@@ -1,0 +1,16 @@
+C:\Users\Queen\Desktop\ITM320_TeamAwesomeProject_11072016\TeamAwesome.Menus\TeamAwesome.Menus\bin\Debug\TeamAwesome.Menus.dll
+C:\Users\Queen\Desktop\ITM320_TeamAwesomeProject_11072016\TeamAwesome.Menus\TeamAwesome.Menus\bin\Debug\TeamAwesome.Menus.pdb
+C:\Users\Queen\Desktop\ITM320_TeamAwesomeProject_11072016\TeamAwesome.Menus\TeamAwesome.Menus\obj\Debug\TeamAwesome.Menus.dll
+C:\Users\Queen\Desktop\ITM320_TeamAwesomeProject_11072016\TeamAwesome.Menus\TeamAwesome.Menus\obj\Debug\TeamAwesome.Menus.pdb
+C:\Users\Queen\Desktop\ITM320_TeamAwesomeProject_11072016\TeamAwesome.Menus\TeamAwesome.Menus\obj\Debug\TeamAwesome.Menus.csprojResolveAssemblyReference.cache
+C:\Users\Queen\Desktop\Queen's Code\TeamAwesome.Menus\TeamAwesome.Menus\bin\Debug\TeamAwesome.Menus.dll
+C:\Users\Queen\Desktop\Queen's Code\TeamAwesome.Menus\TeamAwesome.Menus\bin\Debug\TeamAwesome.Menus.pdb
+C:\Users\Queen\Desktop\Queen's Code\TeamAwesome.Menus\TeamAwesome.Menus\obj\Debug\TeamAwesome.Menus.csprojResolveAssemblyReference.cache
+C:\Users\Queen\Desktop\Queen's Code\TeamAwesome.Menus\TeamAwesome.Menus\obj\Debug\TeamAwesome.Menus.dll
+C:\Users\Queen\Desktop\Queen's Code\TeamAwesome.Menus\TeamAwesome.Menus\obj\Debug\TeamAwesome.Menus.pdb
+C:\Users\Queen\Desktop\Queen's Code\TeamAwesome.Menus\TeamAwesome.Menus\bin\Debug\TeamAwesome.SubMainMenu.dll
+C:\Users\Queen\Desktop\Queen's Code\TeamAwesome.Menus\TeamAwesome.Menus\bin\Debug\TeamAwesome.Slogan.dll
+C:\Users\Queen\Desktop\Queen's Code\TeamAwesome.Menus\TeamAwesome.Menus\bin\Debug\TeamAwesome.FoodSpecialty.dll
+C:\Users\Queen\Desktop\Queen's Code\TeamAwesome.Menus\TeamAwesome.Menus\bin\Debug\TeamAwesome.SubMainMenu.pdb
+C:\Users\Queen\Desktop\Queen's Code\TeamAwesome.Menus\TeamAwesome.Menus\bin\Debug\TeamAwesome.Slogan.pdb
+C:\Users\Queen\Desktop\Queen's Code\TeamAwesome.Menus\TeamAwesome.Menus\bin\Debug\TeamAwesome.FoodSpecialty.pdb

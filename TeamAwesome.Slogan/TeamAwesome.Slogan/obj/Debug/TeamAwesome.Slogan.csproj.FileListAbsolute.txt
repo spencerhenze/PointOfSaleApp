@@ -1,0 +1,5 @@
+C:\Users\Queen\Desktop\ITM320_TeamAwesomeProject_11072016\TeamAwesome.Slogan\TeamAwesome.Slogan\bin\Debug\TeamAwesome.Slogan.dll
+C:\Users\Queen\Desktop\ITM320_TeamAwesomeProject_11072016\TeamAwesome.Slogan\TeamAwesome.Slogan\bin\Debug\TeamAwesome.Slogan.pdb
+C:\Users\Queen\Desktop\ITM320_TeamAwesomeProject_11072016\TeamAwesome.Slogan\TeamAwesome.Slogan\obj\Debug\TeamAwesome.Slogan.csprojResolveAssemblyReference.cache
+C:\Users\Queen\Desktop\ITM320_TeamAwesomeProject_11072016\TeamAwesome.Slogan\TeamAwesome.Slogan\obj\Debug\TeamAwesome.Slogan.dll
+C:\Users\Queen\Desktop\ITM320_TeamAwesomeProject_11072016\TeamAwesome.Slogan\TeamAwesome.Slogan\obj\Debug\TeamAwesome.Slogan.pdb
